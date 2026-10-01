@@ -39,4 +39,4 @@ We may update this Privacy Policy to reflect app enhancements or legal requireme
 If you have questions regarding this Privacy Policy or data privacy in Droplio, you may reach out to us directly via our App Store product page.
 
 ---
-*© 2026 ESC. All rights reserved.*
+*© 2026 Droplio. All rights reserved.*
